@@ -1,0 +1,7 @@
+{
+  "name": "Custom Python",
+  "dockerFile": "Dockerfile",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Python 3.8",
+  "image": "mcr.microsoft.com/vscode/devcontainers/python:3.8",
+  "extensions": ["github.copilot", "GitHub.copilot-chat"],
+}
